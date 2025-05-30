@@ -1,0 +1,6 @@
+@WebApi8_Crud_Repositoy_Pattern_HostAddress = http://localhost:5115
+
+GET {{WebApi8_Crud_Repositoy_Pattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
